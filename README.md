@@ -40,8 +40,8 @@ A command-line Phonebook application developed in C++ using **Data Structures an
    git clone [https://github.com/your-username/PHONEBOOK-MANAGEMENT-SYSTEM-DSA.git](https://github.com/noormalik33/PHONEBOOK-MANAGEMENT-SYSTEM-DSA.git)
 
 
-   ## 👩‍💻 Author
 
+## 👩‍💻 Author
 **Noor Malik**  
 IT Student  
 📍 Islamabad, Pakistan  
