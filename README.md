@@ -37,9 +37,10 @@ A command-line Phonebook application developed in C++ using **Data Structures an
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/PHONEBOOK-MANAGEMENT-SYSTEM-DSA.git](https://github.com/noormalik33/PHONEBOOK-MANAGEMENT-SYSTEM-DSA.git)
+(https://github.com/noormalik33/PHONEBOOK-MANAGEMENT-SYSTEM-DSA.git)
 
-
+2.Download the Zip Folder
+3.Then Simply run in Dev C++
 
 ## 👩‍💻 Author
 **Noor Malik**  
