@@ -47,3 +47,13 @@ IT Student
 📍 Islamabad, Pakistan  
 📧 Email: noormalik56500@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/noormalik56500/)
+
+
+## 👩‍💻 Team Member
+ **Ghulam Qadir**  
+ IT Student  
+📍 Rawalpindi, Pakistan  
+📧 [LinkedIn](https://www.linkedin.com/in/ghulam-qadir-07a982365/)
+
+
+💡 If you like this project, don’t forget to star ⭐ it on GitHub!
